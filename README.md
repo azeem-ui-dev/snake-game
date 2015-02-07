@@ -1,4 +1,6 @@
 snake-game
 ==========
 
-Snake game using HTML5 and JavaScript
+Snake game - built using HTML5 and JavaScript.
+
+
